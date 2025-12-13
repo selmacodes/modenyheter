@@ -2,6 +2,12 @@
 
 En modern och responsiv nyhetssida för mode, trender och stylingtips. Sidan är byggd med HTML, CSS och JavaScript, och är designad för att fungera bra både på dator och mobil.
 
+## Demo-länk
+
+Klicka på länken nedan för att öppna sidan (högerklicka för ny flik).
+
+[Öppna sidan](https://selmacodes.github.io/modenyheter/)
+
 ## Funktioner
 
 - **Responsiv design** - fungerar på desktop, tablet och mobil
@@ -9,12 +15,6 @@ En modern och responsiv nyhetssida för mode, trender och stylingtips. Sidan är
 - **Sidopanel** - tips och inspiration, samt möjlighet för användare att bidra
 - **Hamburgermeny** - för enkel navigering på mobila enheter
 - **Sociala medier** - länkar till Facebook och Instagram i footern (ej aktiva)
-
-## Demo-länk
-
-Klicka på länken nedan för att öppna sidan (högerklicka för ny flik).
-
-[Öppna sidan](https://selmacodes.github.io/modenyheter/)
 
 ## Lärdomar
 
