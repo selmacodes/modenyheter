@@ -2,6 +2,8 @@
 
 En modern och responsiv nyhetssida för mode, trender och stylingtips. Sidan är byggd med HTML, CSS och JavaScript, och är designad för att fungera bra både på dator och mobil.
 
+![Desktop Preview](assets/preview.png)
+
 ## Demo-länk
 
 Klicka på länken nedan för att öppna sidan (högerklicka för ny flik).
