@@ -4,11 +4,13 @@ En modern och responsiv nyhetssida för mode, trender och stylingtips. Sidan är
 
 ![Desktop Preview](assets/preview.png)
 
-## Demo-länk
+---
 
-Klicka på länken nedan för att öppna sidan (högerklicka för ny flik).
+## Live demo
 
 [Öppna sidan](https://selmacodes.github.io/modenyheter/)
+
+---
 
 ## Funktioner
 
@@ -17,6 +19,8 @@ Klicka på länken nedan för att öppna sidan (högerklicka för ny flik).
 - **Sidopanel** - tips och inspiration, samt möjlighet för användare att bidra
 - **Hamburgermeny** - för enkel navigering på mobila enheter
 - **Sociala medier** - länkar till Facebook och Instagram i footern (ej aktiva)
+
+---
 
 ## Lärdomar
 
